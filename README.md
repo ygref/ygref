@@ -11,6 +11,12 @@
 ### Projects I am working on:
 - MTG Deck / Collection Manager, MTG Webscraper.
 
+### Hobbies
+- Magic: The Gathering (Wow...)
+- Hearthstone
+- Music
+- Getting my kids out of the house...
+
 ```
 const handleDestroyCard = (card) => {
     console.log("handleDestroyCard", card);
