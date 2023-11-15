@@ -8,4 +8,16 @@
 ### Databases/Tools:  
 - Postgres, APIs, Node/npm, Git, GitHub, CLI
 
-### Projects I am working on:  MTG Deck / Collection Manager, MTG Webscraper.
+### Projects I am working on:
+- MTG Deck / Collection Manager, MTG Webscraper.
+
+```
+const handleDestroyCard = (card) => {
+    console.log("handleDestroyCard", card);
+    axios.delete(`http://localhost:3000/cards/${card.id}.json`).then(() => {
+      setCards(cards.filter((p) => p.id !== card.id));
+      handleCloseCard();
+    });
+  };
+```
+The card id here should always point to Griselbrand...
