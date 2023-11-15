@@ -1,4 +1,4 @@
-# console.log("Greetings! I'm Jason! Stay a while and listen...")
+## console.log("Greetings! I'm Jason! Stay a while and listen...")
 
 ## I'm a Software Engineer / Full Stack Developer, and like a lot of coders I love the feeling of the puzzle coming together and that rush you get from that feature finally working.
 ### Languages:  Ruby, JavaScript, HTML, CSS, SQL
