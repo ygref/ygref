@@ -15,7 +15,6 @@
 - Magic: The Gathering (Wow...)
 - Hearthstone
 - Music
-- Getting my kids out of the house...
 
 ```
 const handleDestroyCard = (card) => {
