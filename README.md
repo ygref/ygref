@@ -9,12 +9,16 @@
 - Postgres, APIs, Node/npm, Git, GitHub, CLI
 
 ### Projects I am working on:
-- MTG Deck / Collection Manager, MTG Webscraper.
+- Magic the Gathering Deck / Collection Manager
+- Magic the Gathering Webscraper
+- HeroesApp. RESTful API for Heroes of the Storm team comps / player roles / character roles / tiers.
 
 ### Hobbies
-- Magic: The Gathering (Wow...)
-- Hearthstone
 - Music
+- Magic: The Gathering
+- Hearthstone
+- Heroes of the Storm
+
 
 ```
 const handleDestroyCard = (card) => {
