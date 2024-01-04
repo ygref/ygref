@@ -1,6 +1,6 @@
 ## console.log("Greetings! I'm Jason! Stay a while and listen...")
 
-### I'm a Software Engineer / Full Stack Developer, and like a lot of coders I love the feeling of the puzzle coming together and that rush you get from that feature finally working.
+### I'm a Software Engineer / Full Stack Developer, and like a lot of coders I love the feeling of the puzzle coming together and that rush you get from that feature finally working.  I always think user-forward, and back-end strong.
 ### Languages:  
 - Ruby, JavaScript, HTML, CSS, SQL
 ### Frameworks/Libraries:  
@@ -19,6 +19,8 @@
 - Hearthstone
 - Heroes of the Storm
 
+### About Me / Background
+Before becoming a Software Developer / Engineer, I worked for a larger corporate Property and Casualty insurance carrier.  I wore many hats there, from Sales / Underwriting / Risk Assessment / Edit Error Guidance.  I developed a sales acumen there, and a true view of what UI / consumer friendliness really should be.  Previous to that I worked for a privately owned video game / collectible card game / pop culture store.  I wore many hats there as well, from front facing brick and mortar to e-commerce management / sales and development.  
 
 ```
 const handleDestroyCard = (card) => {
