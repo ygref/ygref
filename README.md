@@ -4,7 +4,7 @@
 ### Languages:  
 - Ruby, JavaScript, HTML, CSS, SQL, PHP
 ### Frameworks/Libraries:  
-- Ruby on Rails, React.js, Puppeteer, Cheerio
+- Ruby on Rails, React.js, Puppeteer, Cheerio, PHP/WordPress
 ### Databases/Tools:  
 - Postgres, APIs, Node/npm, Git, GitHub, CLI
 
