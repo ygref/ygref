@@ -1,26 +1,18 @@
 ## console.log("Greetings! I'm Jason! Stay a while and listen...")
 
-### I'm a Software Engineer / Full Stack Developer, and like a lot of coders I love the feeling of the puzzle coming together and that rush you get from that feature finally working.
+### Software Engineer
 ### Languages:  
-- Ruby, JavaScript, HTML, CSS, SQL, PHP
+- JavaScript, Ruby, Python
 ### Frameworks/Libraries:  
-- Ruby on Rails, React.js, Puppeteer, Cheerio, PHP/WordPress
+- Google Apps Script, React.js, Ruby on Rails, Puppeteer, Cheerio, Langchain, Streamlit
 ### Databases/Tools:  
 - Postgres, APIs, Node/npm, Git, GitHub, CLI
 
 ### Projects I am working on:
-- Magic the Gathering Deck / Collection Manager
-- Magic the Gathering Webscraper
-- HeroesApp. RESTful API for Heroes of the Storm team comps / player roles / character roles / tiers.  OAuth ready.
-
-### Hobbies
-- Music
-- Magic: The Gathering
-- Hearthstone
-- Heroes of the Storm
-
+- Currently, I spend a lot of time in Google Sheets Extensions - Apps Script.  I utilize the combination of spreadsheets, formulas, and code to help optimize and automate business tasks for a privately owned entity.
+  
 ### About Me / Background
-Before becoming a Software Developer / Engineer, I worked for a larger corporate Property and Casualty insurance carrier.  I wore many hats there, from Sales / Underwriting / Risk Assessment / Edit Error Guidance.  I developed a sales acumen there, and a true view of what UI / consumer friendliness really should be.  Previous to that I worked for a privately owned video game / collectible card game / pop culture store.  I wore many hats there as well, from front facing brick and mortar to e-commerce management / sales and development.  
+- I've been connected to tech ever since I was a kid.  Born in the early 80's, I was in the generation that saw the beginning of home PC - Tandy, IBM PC.  This shaped a lot of what I would experience and grow with, and is responsible for a lot of my hobbies, interests, and life lessons.  Some of these interests are still with me as an adult, and I've been able to share them with my family / kids.
 
 ```
 const handleDestroyCard = (card) => {
