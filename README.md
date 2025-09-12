@@ -4,7 +4,7 @@
 ### Languages:  
 - JavaScript, Ruby, Python
 ### Frameworks/Libraries:  
-- Google Apps Script, React.js, Ruby on Rails, Puppeteer, Cheerio, Langchain, Streamlit
+- Next.js, React.js, Google Apps Script, Ruby on Rails, Puppeteer, Cheerio, Langchain, Streamlit
 ### Databases/Tools:  
 - Postgres, APIs, Node/npm, Git, GitHub, CLI
 
