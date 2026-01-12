@@ -46,7 +46,7 @@ Currently developing a **large-scale marketplace platform** (Etsy/eBay style) wi
 
 ### ** Client Websites & Brand Experience**
 Through **J3 Digital Marketing**, I design and deploy:
-- Responsive, SEO-optimized marketing websites  
+- Responsive, Search Engine Optimized marketing websites  
 - Custom animations, UI/UX, and brand-driven layouts  
 - High-performance React/Next.js front-ends  
 
@@ -61,9 +61,9 @@ Those early experiences shaped my love for:
 - Learning new technologies  
 - Creativity + entrepreneurship  
 
-Now I get to share those passions with my kids — which is pretty awesome.
+Now I get to share those passions with others.
 
 ---
 
 ### Thanks for stopping by! 
-Feel free to explore my projects or reach out if you're building something cool.
+Feel free to explore my public projects and/or repos.  If you have business and/or employment inquiries, I also can provide demos of private repos (my true work) on request.
