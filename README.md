@@ -1,6 +1,6 @@
 ## console.log("Greetings! I'm Jason! Stay a while and listen...")
 
-### Software Engineer • Full-Stack Developer • Co-Founder @ J3 Digital Marketing  
+### Marketing • Software Engineer • Full-Stack Developer • Co-Founder @ J3 Digital Marketing  
 Building modern web experiences with **Next.js**, **React**, and **Ruby on Rails**, while automating real-world business operations.
 
 ---
